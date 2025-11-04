@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/POSINV.iml" filepath="$PROJECT_DIR$/POSINV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saging/saging.iml" filepath="$PROJECT_DIR$/saging/saging.iml" />
+    </modules>
+  </component>
+</project>
